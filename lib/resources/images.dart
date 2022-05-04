@@ -1,3 +1,3 @@
 class Images {
-  static const appLogo = "assets/images/main-logo.png";
+  static const appLogo = "assets/images/logo.png";
 }
